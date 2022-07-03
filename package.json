@@ -1,0 +1,15 @@
+{
+  "name": "template-node-express-heroku",
+  "version": "1.0.0",
+  "description": "Base Template for Node.js, Express, Heroku",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Andrea Zago",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
